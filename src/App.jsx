@@ -1,5 +1,6 @@
 
 import './App.css'
+import About from './template/About'
 import Header from './template/Header'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
     
     <Header/>
+    <About/>git
 
     <div>Demp program to understand Github</div>
     </>
